@@ -1,0 +1,259 @@
+
+.str
+{
+    background-image: url(backimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.strra
+{
+    padding-left: 15%;
+    display:flex;
+   justify-content: space-between;
+}
+.sea{
+    margin-top: 5%;
+}
+.searchh
+{
+    text-align: center;
+    font-size: large;
+    font-family: fantasy;
+    padding-top: 2%;
+}
+.some
+{
+    background-image: url(bacccck.jpg);
+    border-radius: 20%;
+    padding: 5%;
+    justify-self: center;
+}
+.pad
+{
+    padding: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.padd
+{
+    padding-left: 18%;
+}
+.sr
+{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+}
+.image
+{
+    text-align: left;
+}
+.sea
+{
+    text-align: left;
+    padding-top: 1%;
+}
+.login
+{
+    display: flex;
+    text-align: center;
+    padding-top: 1%;
+}
+.reg
+{
+    text-align: right;
+    padding-top: 1%;
+}
+.food
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+  }
+    .de,.line
+    {
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+    }
+    .adv
+    {
+        justify-content: center;
+        display: flex;
+    }
+    form{
+        font-size: large;
+        text-decoration: white;
+       text-align: center;
+       padding: 18%;
+       background-image: url(./bacccck.jpg);
+        margin:  10px;
+    padding: 20px ;
+    border-radius: 5%;
+    text-align: center;
+        
+    }
+    .total,.full
+    {
+       background-image: url(./mexican.jpg);
+       background-position: center;
+       background-size: 100%;
+       background-repeat: no-repeat;
+    justify-content: right;
+    display: flex;
+    }
+    .hea
+    {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .top
+    {
+        justify-content: center;
+        justify-content: space-evenly;
+    }
+.mea,.veg-biriyani,.pann,.dossa,.chap{
+    background-image: url(./bacccck.jpg);
+    border-radius: 2%;
+    margin:  10px;
+    padding: 20px ;
+    text-align: center;
+}
+.fu,.ful{
+    padding: 4%;
+    background-color: coral;
+    justify-content: center;
+    display: flex;
+}
+.idly,.salat
+{
+    background-image: url(./bacccck.jpg);
+    border-radius: 2%;
+    margin:  10px;
+    padding: 20px ;
+    text-align: center;
+}
+.di{
+    text-align: center;
+}
+li,ol{
+    text-decoration: none;
+}
+.about
+{
+    background-color:beige ;
+    padding: 10%;
+}
+.maand
+{
+    background-image: url(./bacccck.jpg);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+
+   }
+.too
+{
+    background-color: beige;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.nadhii,.irani,.man4,.man5,.man6
+{
+ background-image: url(./bacccck.jpg);
+ border-radius: 3%;
+ margin: 10px;
+ padding: 20px;
+ text-align: center;
+}
+.items,.next
+{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+
+}
+.rahh
+{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.rah
+{
+    background-image: url(./bacccck.jpg);
+    width: 40%;
+    border-radius: 5%;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.foods
+{
+    background-image: url(./bacccck.jpg);
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 15%;
+}
+.rara
+{
+    text-align: center;
+}
+.vegs .nonvegs .piz .drinks
+{
+    transform: scale(1);
+  transition: transform 0.3s ease-in-out; 
+  width: 100%;
+  height: 100%;
+
+}
+.vegs .nonvegs .piz .drinks:hover 
+{
+  transform: scale(1.2); 
+}
+.contents
+{
+    background-image: url(./backgro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ border-radius: 3%;
+ margin: 5%;
+ padding-right: 300px;
+}
+.cont
+{
+    display: flex;
+}
+.mark
+{
+    background-color:darkgray ;
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+    padding: 5%;
+}
+.strr{
+    background-color: beige;
+    display: flex;
+}
+.seaa
+{
+    margin-top: 2%;
+}
+.city1
+{
+    background-image: url(bacccck.jpg);
+    border:solid black;
+    margin: 10px;
+    padding: 10px;
+}
+.city{
+    display: flex;
+    justify-content: space-evenly;
+}
